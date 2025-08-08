@@ -22,23 +22,9 @@ Generated `output.avi`: File shows the results of the ROI (Region of Interest) d
 `output`: Directory will store the results of the semantic segmentation.
 
 # List of compatible plants
-*Trees*
-Acer cissifolium
-Cinnamomum yabunikkei
-Cornus kousa
-Lagerstroemia subcostata
-Ligustrum lucidum
-Ligustrum lucidum
-Prunus speciosa
+Trees: *Acer cissifolium, Cinnamomum yabunikkei, Cornus kousa, Lagerstroemia subcostata, Ligustrum lucidum, Ligustrum lucidum, Prunus speciosa*
 
-*Bushes*
-Camellia japonica
-Cleyera japonica
-Elaegnus pungens
-Hydrangea scandens
-Litsea japonica
-Loropetalum chinense
-Philadelphus satsumi
+Bushes: *Camellia japonica, Cleyera japonica, Elaegnus pungens, Hydrangea scandens, Litsea japonica, Loropetalum chinense, Philadelphus satsumi*
 
 # Database
 https://doi.org/10.5281/zenodo.15875527
