@@ -3,8 +3,11 @@ Hybrid Machine Vision and Segmentation program to analyze the leaf health from v
 
 # Setup
 Step 1: Create a PyTorch environment and install the requirements from `requirements.txt`.
+
 Step 2: Modify line 152 of the `main.py` function to specify the desired video.
+
 Step 3: Download the models and demo video from https://doi.org/10.5281/zenodo.16778023
+
 Step 4: Copy sick.pth and leaf.pth in the same folder as main.py, copy ckpt.t7 in deep_sort\deep_sort\deep\checkpoint
 
 # What can be analyzed?
